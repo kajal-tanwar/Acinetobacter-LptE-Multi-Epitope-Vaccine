@@ -13,4 +13,6 @@ To design and evaluate a multi-epitope subunit vaccine targeting the LptE protei
 1. Sequence Retrieval
 2. Antigenicity Prediction
 3. Allergenicity Prediction
-
+4. Epitope Prediction
+   
+   
