@@ -14,5 +14,7 @@ To design and evaluate a multi-epitope subunit vaccine targeting the LptE protei
 2. Antigenicity Prediction
 3. Allergenicity Prediction
 4. Epitope Prediction
-   
-   
+5. MHC Epitope Analysis
+6. B cell Epitope Analysis
+7.    
+8. Multi Epitope Vaccine Construct   
