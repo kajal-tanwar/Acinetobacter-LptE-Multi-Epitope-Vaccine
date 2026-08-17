@@ -4,7 +4,7 @@
 - Kajal Tanwar
 - Afreen Khan
 - Zia Bukhari
-- Haroon Khan
+- Ayesha Tehreem
 
 ## Objective
 To design and evaluate a multi-epitope subunit vaccine targeting the LptE protein of multidrug-resistant Acinetobacter baumannii using immunoinformatics approaches.
