@@ -19,14 +19,22 @@ The adjuvant sequence was retrieved from the corresponding NCBI protein record i
 
 ## Planned Construct Components
 
+## Linker
+
+The **EAAK** linker was selected for connecting components of the multi-epitope vaccine construct, following the construct design provided by the project mentor.
+
+- **Linker:** EAAK
+- **Length:** 4 amino acids
+
+
 The vaccine construct is planned to contain:
 
-1. Adjuvant
-2. Linker
+1. 50S ribosomal protein L7/L12 adjuvant
+2. EAAK linker
 3. Selected MHC-I and MHC-II epitopes
-4. Linker
-5. Additional selected epitopes
-6. Linker
+4. EAAK linker
+5. Additional selected MHC-I and MHC-II epitopes
+6. EAAK linker
 7. C-terminal His-tag (`HHHHHH`)
 
 The exact arrangement and linker sequences will follow the construct design specified by the project mentor.
