@@ -1,0 +1,24 @@
+# Construct 3
+
+## Overview
+
+This folder contains the sequence, physicochemical analysis, secondary structure prediction, tertiary structure prediction, and final results for Multi-Epitope Vaccine Construct 3.
+
+## Construct Information
+
+* **Construct:** Construct 3
+* **Target organism:** Multidrug-Resistant *Acinetobacter baumannii*
+* **Target protein:** LptE
+* **Project:** Multi-Epitope Subunit Vaccine Design
+
+## Analysis
+
+1. **01_Sequence** – Vaccine construct FASTA sequence
+2. **02_Physicochemical_Analysis** – Physicochemical properties of the construct
+3. **03_Secondary_Structure** – Secondary structure prediction results
+4. **04_Tertiary_Structure** – Predicted 3D structure and structural analysis
+5. **05_Results** – Summary of the overall analysis
+
+## Status
+
+Analysis and structural prediction results will be added as they become available.
