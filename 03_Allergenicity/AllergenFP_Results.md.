@@ -1,4 +1,4 @@
-# AllergenFP Results
+# AllerTOP Results
 
 ## Protein Information
 
@@ -8,20 +8,18 @@
 
 ## Tool Used
 
-- **Tool:** AllergenFP v1.0
-- **Website:** http://ddg-pharmfac.net/AllergenFP/
+- **Tool:** AllerTOP v2.1
+- **Website:** https://www.ddg-pharmfac.net/allertop_v2/
 
 ## Prediction Result
 
-- **Most Similar Protein:** sp|Q6K548|VDAC1_ORYSJ Mitochondrial outer membrane protein porin 1
-- **Organism of Similar Protein:** Oryza sativa subsp. japonica
-- **Tanimoto Coefficient:** 0.5306122448979592
+- **Most Similar Protein:** Most similar protein: sp|Q9NYQ7|CELR3_HUMAN Cadherin EGF LAG seven-pass G-type receptor 3 OS=Homo sapiens GN=CELSR3 PE=1 SV=2
 - **Classification:** **Probable NON-ALLERGEN**
 
 ## Interpretation
 
-The AllergenFP server predicted the LptE protein as a **Probable NON-ALLERGEN**, indicating that the protein is unlikely to induce allergic reactions. This supports its suitability for further immunoinformatics analyses and multi-epitope vaccine design.
+The AllerTOP v2.1 server predicted the LptE protein as a **Probable NON-ALLERGEN**, indicating that the protein is unlikely to induce allergic reactions. This supports its suitability for further immunoinformatics analyses and multi-epitope vaccine design.
 
 ## Conclusion
 
-The LptE protein of *Acinetobacter baumannii* was predicted to be **non-allergenic** by AllergenFP v1.0. Therefore, it was considered suitable for subsequent epitope prediction and vaccine construction steps.
+The LptE protein of *Acinetobacter baumannii* was predicted to be **non-allergenic** by AllerTOP v2.1. Therefore, it was considered suitable for subsequent epitope prediction and vaccine construction steps.
