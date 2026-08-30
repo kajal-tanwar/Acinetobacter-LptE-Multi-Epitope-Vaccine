@@ -24,16 +24,6 @@ To identify potential MHC Class II (CD4⁺ T-cell) epitopes from the LptE protei
 
 ---
 
-## Top Predicted MHC-II Epitopes
-
-| HLA Allele | Epitope | Position | Score | Percentile Rank |
-|------------|----------|:--------:|------:|----------------:|
-| HLA-DQA1*03:01/DQB1*03:02 | QYDLATVNTENQQES | 127–141 | 0.0450 | 0.11 |
-| HLA-DQA1*03:01/DQB1*03:02 | YQYDLATVNTENQQE | 126–140 | 0.0440 | 0.13 |
-| HLA-DRB1*04:05 | SYQYDLATVNTENQQ | 125–139 | 0.9282 | 0.17 |
-| HLA-DRB4*01:01 | RLTVTFQIEDRQGNK | 99–113 | 0.7567 | 0.19 |
-| HLA-DRB3*02:02 | ARSYQYDLATVNTEN | 123–137 | 0.7406 | 0.26 |
-
 > **Note:** The complete prediction results are available in **MHC_II_Epitopes.xlsx**.
 
 ---
