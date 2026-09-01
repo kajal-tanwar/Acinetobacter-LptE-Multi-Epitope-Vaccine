@@ -22,7 +22,7 @@ Peptides with lower predicted immunogenicity were retained in the complete resul
 
 ## Allergenicity Analysis
 
-The MHC-II peptide candidates were evaluated for allergenic potential using **AllergenFP**.
+The MHC-II peptide candidates were evaluated for allergenic potential using **AllerTOP v2.1**.
 
 Peptides predicted as **Non-allergen** were considered suitable for further screening.
 
@@ -39,7 +39,7 @@ MHC-II peptides were prioritized for further vaccine design based on the followi
 
 The complete MHC-II epitope analysis, including peptide sequences, immunogenicity results, and allergenicity results, is provided in:
 
-`MHC_II_Results.xlsx`
+`MHC_II_Epitopes.xlsx`
 
 The Excel file contains the evaluated MHC-II peptides and their corresponding screening results.
 
