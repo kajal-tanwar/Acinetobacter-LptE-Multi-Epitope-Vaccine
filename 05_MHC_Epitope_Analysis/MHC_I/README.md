@@ -22,7 +22,7 @@ Peptides with lower predicted immunogenicity, such as 66%, were retained in the 
 
 ## Allergenicity Analysis
 
-The shortlisted MHC-I peptides were evaluated for allergenic potential using **AllergenFP**.
+The shortlisted MHC-I peptides were evaluated for allergenic potential using **AllerTOP v2.1**.
 
 Peptides predicted as **Non-allergen** were considered suitable for further screening.
 
@@ -39,7 +39,7 @@ MHC-I peptides were prioritized for further vaccine design based on the followin
 
 The complete MHC-I epitope analysis, including peptide sequences, immunogenicity results, and allergenicity results, is provided in:
 
-`MHC_I_Results.xlsx`
+`MHC_I_Epitopes.xlsx`
 
 The Excel file contains both the evaluated peptides and their corresponding screening results.
 
