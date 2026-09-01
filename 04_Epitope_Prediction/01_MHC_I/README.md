@@ -8,5 +8,4 @@ This folder contains the MHC Class I epitope prediction results for the LptE pro
 
 ## Files
 - MHCI.xlsx
-- MHC_I_Epitopes.xlsx
 - MHC_I_Results.md
