@@ -27,7 +27,7 @@ The B-cell epitope prediction generated candidate peptide regions within the Lpt
 The following files contain the prediction results:
 
 * `BepiPred_Graph.png` – BepiPred prediction graph showing the predicted epitope regions and scores.
-* `Predicted_B_Cell_Epitopes.png` – Screenshot of the predicted B-cell peptide regions obtained from the analysis.
+* `B_Cell_Epitopes.xlsx` – Complete B-cell epitope prediction results.
 
 ## Epitope Selection
 
@@ -52,5 +52,5 @@ BepiPred-based analysis identified potential linear B-cell epitopes within the L
 | File                            | Description                                |
 | ------------------------------- | ------------------------------------------ |
 | `BepiPred_Graph.png`            | BepiPred prediction graph                  |
-| `Predicted_B_Cell_Epitopes.png` | Predicted B-cell epitope regions           |
+| `B_Cell_Epitopes.xlsx` | Predicted B-cell epitope regions           |
 | `README.md`                     | Description of the B-cell epitope analysis |
