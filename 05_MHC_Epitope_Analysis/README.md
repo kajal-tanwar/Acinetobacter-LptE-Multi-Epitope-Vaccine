@@ -23,7 +23,7 @@ The predicted MHC-I peptides were further evaluated for:
 
 * MHC-I binding properties
 * Immunogenicity using VaxiJen 3.0
-* Allergenicity using AllergenFP
+* Allergenicity using AllerTOP v2.1
 
 Peptides meeting the defined selection criteria were considered for further analysis and vaccine construct development.
 
@@ -31,7 +31,7 @@ Peptides meeting the defined selection criteria were considered for further anal
 
 The complete MHC-I analysis is available in:
 
-`MHC_I/MHC_I_Results.xlsx`
+`MHC_I_Epitopes.xlsx`
 
 The Excel file contains the predicted peptide sequences along with their immunogenicity and allergenicity results.
 
@@ -51,7 +51,7 @@ Suitable candidates were shortlisted according to the defined selection criteria
 
 The complete MHC-II analysis is available in:
 
-`MHC_II/MHC_II_Results.xlsx`
+`MHC_II_Epitopes.xlsx`
 
 The Excel file contains the predicted peptide sequences along with their immunogenicity and allergenicity results.
 
@@ -77,11 +77,11 @@ Peptides with lower predicted immunogenicity were retained in the complete resul
 │
 ├── MHC_I/
 │   ├── README.md
-│   └── MHC_I_Results.xlsx
+│   └── MHC_I_Epitopes.xlsx
 │
 └── MHC_II/
     ├── README.md
-    └── MHC_II_Results.xlsx
+    └── MHC_II_Epitopes.xlsx
 ```
 
 ## Summary
