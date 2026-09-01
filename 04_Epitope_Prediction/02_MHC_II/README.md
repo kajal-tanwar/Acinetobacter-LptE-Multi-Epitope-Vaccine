@@ -4,5 +4,4 @@ This folder contains the MHC Class II (CD4⁺ T-cell) epitope prediction results
 
 ## Files
 - MHCII.xlsx
-- MHC_II_Epitopes.xlsx
 - MHC_II_Results.md
